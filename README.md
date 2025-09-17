@@ -8,6 +8,6 @@ Ajudando a organizar todo o meu material que fiz para a disciplina além de disp
 
 ### Dados Básicos: 
 
-*Matricula:2025211890088
-*Nome: Clenio Vitor Guedes Pontes
-*Curso: Ciências da Computação
+* Matricula:2025211890088
+* Nome: Clenio Vitor Guedes Pontes
+* Curso: Ciências da Computação
